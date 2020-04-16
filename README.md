@@ -1,0 +1,2 @@
+# Triangular_position_simple
+Triangular position algorithm implementation
